@@ -1,0 +1,5 @@
+# [www.cameramonit.com](http://www.cameramonit.com)
+
+
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/cameramonit/contribution) [![GitHub stars](https://img.shields.io/github/stars/cameramonit/www.svg?style=flat&label=Star)](https://github.com/cameramonit/contribution/stargazers) [![GitHub forks](https://img.shields.io/github/forks/cameramonit/www.svg?style=flat&label=Fork)](https://github.com/cameramonit/contribution/fork) [![GitHub watchers](https://img.shields.io/github/watchers/cameramonit/www.svg?style=flat&label=Watch)](https://github.com/cameramonit/contribution/watchers) [![GitHub followers](https://img.shields.io/github/followers/teleoperator-app.svg?label=Follow)](https://github.com/teleoperator-app) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteleoperator-app%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+

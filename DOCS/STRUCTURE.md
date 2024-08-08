@@ -17,7 +17,7 @@
 Upewnij się, że Twoje katalogi mają poniższą strukturę:
 
 ```
-teleoperator-app/
+cameramonit/
 ├── backend/
 │   ├── Dockerfile
 │   ├── package.json

@@ -1,5 +1,5 @@
 
-## Teleoperator [Contribution](http://contribution.teleoperator.app) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/MENU.md)
+## Teleoperator [Contribution](http://contribution.teleoperator.app) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/MENU.md)
 
 
 
@@ -20,7 +20,7 @@
 + Czy interesuje Cię współpraca przy innych [projektach git](https://github.com/cameramonit/)?
 + Czy masz co dołożyć lub rozmawiać? [Otwórz pull request](https://github.com/cameramonit/docs/pulls) lub [opisz problem](https://github.com/cameramonit/docs/issues).
 
- [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/STRUCTURE.md)
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/STRUCTURE.md)
 
 ### Inicjalizacja projektu React.js
 
@@ -39,7 +39,7 @@
 Upewnij się, że Twoje katalogi mają poniższą strukturę:
 
 ```
-teleoperator-app/
+cameramonit/
 ├── backend/
 │   ├── Dockerfile
 │   ├── package.json
@@ -65,7 +65,7 @@ teleoperator-app/
 └── ...inne_pliki_frontendu...
 ```
 
-## Node Install [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/NODE.md)
+## Node Install [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/NODE.md)
 
 
 
@@ -174,7 +174,7 @@ Run this command to get a full list of the options available:
 serve -h
 ```
 
-## Python Install [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/PYTHON.md)
+## Python Install [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/PYTHON.md)
 
 Zainstaluj biblioteki Pythona, jeśli jeszcze tego nie zrobiłeś. Możesz to zrobić używając `pip`:
 
@@ -190,7 +190,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 py -m pip install -r requirements.txt
 ```
 
-## Uruchamianie kontenerów [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/DOCKER.md)
+## Uruchamianie kontenerów [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/DOCKER.md)
 
 Pliki `Dockerfile` i `docker-compose.yml` umożliwiaj konteneryzację aplikacji React.js (src) i backendu Express, co sprawia, że aplikacja staje się bardziej przenośna i łatwa do wdrożenia. 
 Dzięki Docker i Docker Compose możesz uruchomić złożone środowiska wielokontenerowe jedną komendą, co znacznie upraszcza zarządzanie i skalowanie aplikacji.
@@ -237,7 +237,7 @@ If you need your build to connect to services running on the host, you can use t
 docker build --add-host host.docker.internal=host-gateway .
 ```
 
-## TODO [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/TODO.md)
+## TODO [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/TODO.md)
 
 Na tym etapie stworzyliśmy podstawową makietę aplikacji webowej z wykorzystaniem technologii React.js, która jest łatwa do modyfikacji.
 Od inicjalizacji projektu, przez utworzenie podstawowej struktury komponentów, aż po integrację z symulowanym API (MSW).
@@ -302,7 +302,7 @@ Automatyzacja procesów wdrożeniowych zapewni częste i pewne wdrożenia:
 - **Docker i Kubernetes**: Zautomatyzuj wdrożenia aplikacji przy użyciu konteneryzacji.
 - **CI/CD**: Implementacja potoków CI/CD do automatyzacji buildów, testów i wdrożeń.
 
- [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:teleoperator-app/contribution/edit/main/DOCS/FOOT.md)
+ [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:cameramonit/contribution/edit/main/DOCS/FOOT.md)
 ---
 [info about privacy](../docs/PRIVACY.md)
 
